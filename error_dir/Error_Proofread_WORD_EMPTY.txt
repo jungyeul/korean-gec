@@ -1,0 +1,7 @@
+sample_1478.xml:1773:<Proofread pos="JKS" />
+sample_1478.xml:1787:<Proofread pos="EC" />
+sample_1971.xml:101:<Proofread pos="VX" />
+sample_2512.xml:147:<Proofread pos="NNP" />
+sample_5616.xml:128:<Proofread pos="JKB" />
+sample_7900.xml:640:<Proofread pos="EC" />
+sample_8876.xml:462:<Proofread pos="NNB" />
